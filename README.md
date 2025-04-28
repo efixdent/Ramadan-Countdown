@@ -2,6 +2,6 @@
 Script Ramadan Countdown (Script Hitungan Mundur Jelang Ramadhan)
 
 Inspired by www.arlinadzgn.com
-We edited some code to adjust the date of Ramadan 1437 H. Thank you for all.
+We edited some code to adjust the date of Ramadan 1446 H. Thank you for all.
 
 By http://catatanikrom.blogspot.com
